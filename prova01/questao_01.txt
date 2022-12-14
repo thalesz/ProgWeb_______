@@ -1,0 +1,31 @@
+Erro n01: 
+
+background-color {
+    #para: blue;
+}
+
+o correto seria usar o identificador de id e depois modificar o background-color
+
+Erro n02: 
+A ausência da tag <body>
+
+Erro n03:
+<style>
+     (function() {
+    var instituto = {
+    nome: "Instituto de Computação",
+    getNome: function () {
+    return that.nome;
+     }
+    }
+     })();
+</style>
+
+O correto seria usar a tag <script>
+
+Erro n04:
+<!DOCTYPE html>
+     <html>
+
+Não há a necessidade de usar a tag <html> se a tag <!DOCTYPE html> já esta sendo usada
+

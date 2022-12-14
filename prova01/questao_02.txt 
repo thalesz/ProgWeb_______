@@ -1,0 +1,4 @@
+Podemos usar a tag, a classe ou o id para selecionarmos apenas o span nessa questão:
+usando a tag <span> o elemento seria o unico elemento selecionado uma vez que há somente uma aparição da tag nesse código
+usando a class "cl1" ele seria o único elemento selecionado uma vez que ele é o único elemento dessa classe 
+e por último utilizando o id 
