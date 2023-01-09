@@ -1,0 +1,25 @@
+table{
+	float: left;
+	margin: 10px;
+    
+}
+
+td{
+	text-align: center;
+    border: 1px solid black;
+   
+}
+
+.table{
+	display: flex;
+	flex-wrap: wrap;
+}
+.td{
+	display: flex;
+	flex-wrap: wrap;
+}
+th{
+    border: 1px solid black;
+    
+    
+}
