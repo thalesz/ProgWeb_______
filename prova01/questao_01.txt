@@ -1,3 +1,6 @@
+Todos os erros foram encontrados corretamente, com exceção do último.
+Nota 1.5
+
 Erro n01: 
 
 background-color {

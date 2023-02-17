@@ -1,3 +1,6 @@
+Código incorreto
+Nota: 0.0
+
 function vendas(id, qtde, preco){
     var vendas = {
         id : 0,
