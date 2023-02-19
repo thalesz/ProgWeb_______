@@ -1,0 +1,13 @@
+.bar {
+    display: inline-block;
+    background-color: red;
+    height: 50px;
+    width: 50px;
+    margin-right: 10px;
+    padding: 5px;
+}
+
+.chart {
+    padding-top: 250px;
+    border: none;
+}
