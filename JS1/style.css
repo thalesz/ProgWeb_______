@@ -1,13 +1,10 @@
 table{
 	float: left;
 	margin: 10px;
-    
 }
 
 td{
 	text-align: center;
-    border: 1px solid black;
-   
 }
 
 .table{
@@ -17,9 +14,4 @@ td{
 .td{
 	display: flex;
 	flex-wrap: wrap;
-}
-th{
-    border: 1px solid black;
-    
-    
 }
